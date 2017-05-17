@@ -224,7 +224,23 @@
     border-radius: 4px;
     background-color: #ffffff;
     border: solid 1px #e7e7ed;
-    margin-left: auto;
+    margin-left: 6%;
     margin-right: auto;
     margin-top: 13px;
+}
+.panel_age-copy-6 {
+    width: 680px;
+    height: 289px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    border: solid 1px #e7e7ed;
+    margin-left: 2%;
+    margin-top:10px;
+}
+.Rectangle-2450 {
+    width: 230px;
+    height: 290px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    border: solid 1px #e7e7ed;
 }

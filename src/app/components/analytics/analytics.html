@@ -54,12 +54,23 @@
                 <p class="Close-menu">Close menu</p>
             </div>
         </div>
-        <div style="display: contents;">
+        <div>
             <div class="panel_age-copy-7">
                 <canvas style="display: block;width: 940px;height: 256px;margin: 5px;" id="line" class="chart chart-line" chart-data="analytics.data"
                         chart-labels="analytics.labels" chart-series="analytics.series" chart-options="analytics.options"
                         chart-dataset-override="analytics.datasetOverride" chart-click="analytics.onClick">
                 </canvas>
+            </div>
+            <div style="display: flex;">
+                <div class="panel_age-copy-6">
+                    <canvas id="bar" class="chart chart-bar" style="width: 602px;height: 271px;margin: 5px;"
+                            chart-data="analytics.data" chart-labels="analytics.labels" chart-series="analytics.series">
+                    </canvas>
+                </div>
+                <div class="Rectangle-2450">
+                    <canvas id="doughnut" class="chart chart-doughnut" chart-data="analytics.data" chart-labels="analytics.labels">
+                    </canvas>
+                </div>
             </div>
         </div>
     </div>
