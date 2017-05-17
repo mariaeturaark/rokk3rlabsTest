@@ -1,0 +1,230 @@
+.top {
+    width: 101%;
+    height: 61px;
+    background-color: #2f323a;
+    margin-top: -8px;
+    margin-left: -8px;
+    display: inline-flex;
+}
+.Rectangle-2189-Copy {
+    width: 264px;
+    height: 60px;
+    background-color: #1e2025;
+    text-align: center;
+}
+.admin-name-div{
+    display: flex;
+    margin-left: auto;
+    margin-right: 15px;
+}
+.R3L_Logo_Application_02 {
+    width: 176px;
+    height: 30px;
+    object-fit: contain;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.5);
+    margin-top: 6%;
+}
+.left_menu {
+    width: 251px;
+    background-color: #2f323a;
+    margin-left: -8px;
+    padding-left: 14px;
+}
+.Navigate {
+    width: 75px;
+    height: 19px;
+    font-family: ProximaNova;
+    font-size: 18px;
+    text-align: left;
+    color: #575a5f;
+    display: inline-block;
+}
+.Line {
+    width: 215px;
+    height: 2px;
+    border-top: 2px solid #373b42;
+}
+.Rectangle-vacio {
+    width: 264px;
+    height: 49px;
+    display: -moz-inline-box;
+}
+.Rectangle-2189 {
+    width: 252px;
+    height: 49px;
+    background-color: #1e2025;
+    display: -moz-inline-box;
+    margin-left: -14px;
+    padding-left: 13px;
+}
+.Analytics {
+    height: 19px;
+    font-family: ProximaNova;
+    font-size: 17px;
+    font-weight: 600;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 8px;
+}
+.News {
+    height: 19px;
+    font-family: ProximaNova;
+    font-size: 17px;
+    font-weight: 600;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 8px;
+}
+.Board-Brief {
+    height: 19px;
+    font-family: ProximaNova;
+    font-size: 17px;
+    font-weight: 600;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 8px;
+}
+.Briefcase {
+    height: 19px;
+    font-family: ProximaNova;
+    font-size: 17px;
+    font-weight: 600;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 8px;
+}
+.Close-menu {
+    width: 85px;
+    height: 19px;
+    font-family: ProximaNova;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 8px;
+}
+.Admin-Name {
+    width: 82px;
+    height: 19px;
+    font-family: ProximaNova;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.36;
+    color: #ffffff;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+.Shape {
+    width: 16px;
+    height: 16px;
+    object-fit: contain;
+    background-color: #ffffff;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.analitycs {
+    width: 18px;
+    height: 11px;
+    object-fit: contain;
+}
+.newspaper-o {
+    width: 16px;
+    height: 11px;
+    object-fit: contain;
+}
+.board-brief {
+    width: 12px;
+    height: 15px;
+    object-fit: contain;
+}
+.briefcase {
+    width: 18px;
+    height: 14px;
+    object-fit: contain;
+}
+.angle-double-left {
+    width: 9px;
+    height: 9px;
+    object-fit: contain;
+}
+.Rectangle-766 {
+    background-color: #f5f5fa;
+}
+.Rectangle-2 {
+    width: 295.1px;
+    border-radius: 6px;
+    background-color: #ffffff;
+    border: solid 1px #e7e7ed;
+    margin: 12px;
+}
+.cabecera-card {
+    width: 103px;
+    height: 14px;
+    font-family: ProximaNova;
+    font-size: 12px;
+    font-weight: 600;
+    color: #5c9df5;
+}
+.header-card p {
+    width: 256px;
+    height: 40px;
+    font-family: ProximaNova;
+    font-size: 16px;
+    line-height: 1.25;
+    text-align: left;
+    color: #3c454c;
+}
+.img-card {
+    width: 294px;
+    height: 70px;
+    text-align: center;
+    margin-top: 12%;
+}
+.description-card {
+    width: 264px;
+    height: 85px;
+    font-family: ProximaNova;
+    font-size: 14px;
+    text-align: left;
+    color: #666666;
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-bottom: 22px;
+}
+.title-card .fecha-card {
+    width: 103px;
+    height: 16px;
+    font-family: ProximaNova;
+    font-size: 11px;
+    line-height: 1.45;
+    text-align: right;
+    color: #b9b9b9;
+    margin-left: auto;
+}
+
+.title-card p{
+    width: 103px;
+    height: 14px;
+    font-family: ProximaNova;
+    font-size: 12px;
+    font-weight: 600;
+    color: #5c9df5;
+}
+.title-card {
+    display: flex;
+    margin-left: 14px;
+    margin-right: 14px;
+}
+.header-card{
+    margin: 14px;
+}
+.panel_age-copy-7 {
+    width: 940px;
+    height: 262px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    border: solid 1px #e7e7ed;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 13px;
+}

@@ -1,0 +1,66 @@
+<div ng-controller="AnalyticsController as analytics">
+
+    <div class="top">
+        <div class="Rectangle-2189-Copy">
+            <img src="assets/img/r-3-l-logo-application-02.png"
+                 srcset="assets/img/r-3-l-logo-application-02@2x.png 2x,
+             assets/img/r-3-l-logo-application-02@3x.png 3x"
+                 class="R3L_Logo_Application_02">
+        </div>
+        <div class="admin-name-div">
+            <p class="Admin-Name">Admin name</p>
+            <img src="assets/img/shape.svg"
+                 class="Shape">
+        </div>
+    </div>
+    <div style="display: flex;">
+        <div class="left_menu">
+            <p class="Navigate">NAVIGATE</p>
+            <div class="Line"></div>
+
+            <div class="Rectangle-2189">
+                <img src="assets/img/analitycs.png"
+                     srcset="assets/img/analitycs@2x.png 2x,
+             assets/img/analitycs@3x.png 3x"
+                     class="analitycs">
+                <a class="Analytics" ui-sref="analytics" style="text-decoration:none">Analytics</a>
+            </div>
+            <div class="Rectangle-vacio">
+                <img src="assets/img/newspaper-o.png"
+                     srcset="assets/img/newspaper-o@2x.png 2x,
+             assets/img/newspaper-o@3x.png 3x"
+                     class="newspaper-o">
+                <a class="News" ui-sref="news" style="text-decoration:none">News</a>
+            </div>
+            <div class="Rectangle-vacio">
+                <img src="assets/img/board-brief.png"
+                     srcset="assets/img/board-brief@2x.png 2x,
+             assets/img/board-brief@3x.png 3x"
+                     class="board-brief">
+                <p class="Board-Brief">Board Brief</p>
+            </div>
+            <div class="Rectangle-vacio">
+                <img src="assets/img/briefcase.png"
+                     srcset="assets/img/briefcase@2x.png 2x,
+             assets/img/briefcase@3x.png 3x"
+                     class="briefcase">
+                <p class="Briefcase">Briefcase</p>
+            </div><br><br><br>
+            <div class="Rectangle-vacio">
+                <img src="assets/img/angle-double-left.png"
+                     srcset="assets/img/angle-double-left@2x.png 2x,
+             assets/img/angle-double-left@3x.png 3x"
+                     class="angle-double-left">
+                <p class="Close-menu">Close menu</p>
+            </div>
+        </div>
+        <div style="display: contents;">
+            <div class="panel_age-copy-7">
+                <canvas style="display: block;width: 940px;height: 256px;margin: 5px;" id="line" class="chart chart-line" chart-data="analytics.data"
+                        chart-labels="analytics.labels" chart-series="analytics.series" chart-options="analytics.options"
+                        chart-dataset-override="analytics.datasetOverride" chart-click="analytics.onClick">
+                </canvas>
+            </div>
+        </div>
+    </div>
+</div>
